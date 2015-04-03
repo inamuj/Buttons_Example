@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">R/C Controller</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="text_box">Text Box</string>
+    <string name="action_settings">Settings</string>
+</resources>
